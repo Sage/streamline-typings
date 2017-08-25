@@ -7,6 +7,9 @@
   "author": {
     "name": "Bruno Jouhier"
   },
+  "typescript": {
+    "definitions": "streamline-runtime.d.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Sage/streamline-typings.git"
