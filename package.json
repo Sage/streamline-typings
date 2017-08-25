@@ -1,0 +1,18 @@
+{
+  "name": "streamline-typings",
+  "description": "typescript type definitions for streamline-runtime",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "http://github.com/Sage/streamline-typings",
+  "author": {
+    "name": "Bruno Jouhier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sage/streamline-typings.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Sage/streamlinejs/issues"
+  }
+}
